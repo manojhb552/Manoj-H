@@ -36,7 +36,11 @@ sudo apt-get install build-essential clang bison flex \libreadline-dev gawk tcl-
 make config-gcc
 make 
 sudo make install
-![yosys](https://github.com/manojhb552/Manoj-H/assets/154490935/b2f2f7f8-80ac-48ff-a83c-a8e82c98fe22)
+![WhatsApp Image 2024-02-22 at 18 37 22_0df5c6db](https://github.com/manojhb552/Manoj-H/assets/154490935/9ce8e042-4fb3-4565-a6e1-4c18ce6fb257)
+![Screenshot 2024-02-22 183453](https://github.com/manojhb552/Manoj-H/assets/154490935/ed315fd4-ba62-4354-8d3b-ef34b98a1920)
+
+
+
 
 # iVerilog
 
