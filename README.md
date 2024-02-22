@@ -1,6 +1,8 @@
 # Manoj-H
 # A 4-week Research Internship on RISC-V using VSDSquadron Mini RISC-V Dev Board
-Task 1:
+<details>
+  
+<summary><b>Task 1:</b></summary>
 
 install RISC-V GNU Toolchain
 
