@@ -5,13 +5,13 @@ This repo is intended to document the weekly progress
   
 <summary><b>Task 1:</b></summary>
 
-install RISC-V GNU Toolchain
+1. install RISC-V GNU Toolchain
 
-install Yosys
+2. install Yosys
 
-install iverilog
+3. install iverilog
 
-install gtkwave
+4. install gtkwave
 
 # CLONING RISC-V GNU TOOLCHAIN
 
