@@ -1,4 +1,5 @@
 # Manoj-H
+This repo is intended to document the weekly progress
 # A 4-week Research Internship on RISC-V using VSDSquadron Mini RISC-V Dev Board
 <details>
   
